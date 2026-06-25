@@ -46,5 +46,7 @@ YYMMDD_알고리즘유형_플랫폼-번호_문제이름.md
 
 ## 풀이
 - 신민규 (ukym): 
-- 박희운 (heeun98): 
+- 박희운 (heeun98):
+- 이윤영 (lydbsdud):
+- 김선준 (kimseonj):
 ```

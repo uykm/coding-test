@@ -1,6 +1,6 @@
-# 문제 제목
+# Set Matrix Zeroes
 
-🔗 
+🔗 https://leetcode.com/problems/set-matrix-zeroes/
 
 ## 풀이
 - 신민규 (ukym): 

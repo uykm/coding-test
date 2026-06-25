@@ -1,6 +1,6 @@
-# 문제 제목
+# Game of Life
 
-🔗 
+🔗 https://leetcode.com/problems/game-of-life/
 
 ## 풀이
 - 신민규 (ukym): 
