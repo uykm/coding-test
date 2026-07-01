@@ -7,4 +7,4 @@
 - 박희운 (heeun98): https://github.com/heeun98/leetcode/blob/main/0002-add-two-numbers/0002-add-two-numbers.java
 - 이윤영 (lydbsdud):
 - 김선준 (kimseonj):
-- 김지민 (jminkkk):
+- 김지민 (jminkkk): https://github.com/jminkkk/Algorithm/blob/main/0002-add-two-numbers/0002-add-two-numbers.java
